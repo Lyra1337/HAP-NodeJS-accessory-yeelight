@@ -1,1 +1,1 @@
-# HAP-NodeJS-accessory-yeelight
+# yeelight accessory plugin for HAP-NodeJS
